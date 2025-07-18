@@ -146,8 +146,6 @@ void menuLocais(int *num_locais, Local *&locais)
 	}
 }
 
-/*Menu para backup */
-
 void menuBackup(int *num_locais, int *num_veiculos, int *num_pedidos, 
 		Local *&locais, Veiculo *&veiculos, Pedido *&pedidos)
 {
