@@ -10,7 +10,7 @@
 #define TAM_ID 4
 #define TAM_PLACA 8
 
-/*Para o comando system clear funcionar em ambos os sistemas (windows/linux)*/
+/*Para o comando system clear funcionar em ambos os sistemas (windows/linux) */
 
 #if defined(_WIN32) || defined(_WIN64)
     #define LIMPA_TELA "cls"
