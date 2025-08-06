@@ -22,13 +22,13 @@
 
 int main()
 {
-	int num_locais=0;
-	int num_veiculos=0;
-	int num_pedidos=0;
+	int num_locais = 0;
+	int num_veiculos = 0;
+	int num_pedidos = 0;
 
-	Local *locais=nullptr;
-	Veiculo *veiculos=nullptr;
-	Pedido *pedidos=nullptr;
+	Local *locais = nullptr;
+	Veiculo *veiculos = nullptr;
+	Pedido *pedidos = nullptr;
 
 	/*Seed para o srand */
 
